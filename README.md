@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+- https://www.rakuten-drive.com/cloud/shared/iyrr7cdbd268c18b426d7d3c85129ea23d91
+
 <!---
 gru0123/gru0123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
